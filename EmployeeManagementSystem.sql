@@ -62,6 +62,14 @@ JOIN departments d ON e.department_id = d.department_id
 JOIN salaries s ON e.employee_id = s.employee_id
 GROUP BY d.department_name;
 
+Project Title: Employee Management System
+    
+Description: 
+Designed a relational database using MySQL to manage employee records, departments, job roles, and salaries. 
+Wrote optimized SQL queries for complex reporting, including salary analysis and department-level insights.
+Implemented transaction handling, indexing, and stored procedures for data consistency and performance.
+
+
 
 
 
